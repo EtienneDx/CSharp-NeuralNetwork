@@ -1,0 +1,16 @@
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\bin\Release\GraphicNeuralNetwork.exe.config
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\bin\Release\GraphicNeuralNetwork.exe
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\bin\Release\GraphicNeuralNetwork.pdb
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\bin\Release\LiveCharts.dll
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\bin\Release\Newtonsoft.Json.dll
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\bin\Release\WindowsBase.dll
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\bin\Release\LiveCharts.pdb
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\bin\Release\LiveCharts.xml
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\bin\Release\Newtonsoft.Json.xml
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\obj\Release\GraphicNeuralNetwork.Exemple.Graph.resources
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\obj\Release\GraphicNeuralNetwork.Exemple.NetworkForm.resources
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\obj\Release\GraphicNeuralNetwork.Exemple.TestingForm.resources
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\obj\Release\GraphicNeuralNetwork.Properties.Resources.resources
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\obj\Release\GraphicNeuralNetwork.csproj.GenerateResource.Cache
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\obj\Release\GraphicNeuralNetwork.exe
+C:\Users\etien\Documents\Visual Studio 2017\Projects\GraphicNeuralNetwork\GraphicNeuralNetwork\obj\Release\GraphicNeuralNetwork.pdb
